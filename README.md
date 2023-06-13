@@ -1,4 +1,11 @@
-# ExploratoryDataAnalysis
+# DataAnalysisPortfolio
+
+This repository contains three separate data analysis projects, including two jupyter notebooks and one tableau dashboard.
+
+Files:
+1. Exploratory Data Analysis.ipynb
+2. Sales Analysis,
+3.
 
 This project is an exploratory data analysis of the 2022 Stack Overflow Developer Survey results. The data was made available by Stack Overflow at https://survey.stackoverflow.co/2022/.
 
