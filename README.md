@@ -19,7 +19,7 @@ Link to GitHub file: https://github.com/shaadirm/DataAnalysisPortfolio/blob/main
 
 This project is an analysis of sales for the electronic products sold throuhout one year by a fictional online retailer. The data was created by a obtained from a GitHub user at https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/aa7297ba64466b5543ddc9211b6afa7601efd21e/Task1/Sales_Data.
 
-This project was also completed using Python and the pandas and Matplotlib libraries.
+This project was also completed using Python with the pandas and Matplotlib libraries.
 
 Link to GitHub file: https://github.com/shaadirm/DataAnalysisPortfolio/blob/main/salesAnalysis.ipynb
 
