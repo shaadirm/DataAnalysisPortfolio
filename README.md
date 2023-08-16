@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-This repository contains three separate data analysis projects, including two jupyter notebooks and one tableau dashboard.
+This repository contains three separate data analysis projects, including two Jupyter Notebooks and one tableau dashboard.
 
 Files:
 1. ExploratoryDataAnalysis.ipynb
