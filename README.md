@@ -25,7 +25,7 @@ Link to GitHub file: https://github.com/shaadirm/DataAnalysisPortfolio/blob/main
 
 ## TableauAirbnbDashboard.pdf
 
-This file contains a pdf version of a tableau dashboard created using data about Airbnb listings in Austin, Texas. The data was obtained through Airbnb at http://insideairbnb.com/get-the-data/.
+This file contains a pdf version of a tableau dashboard I created using data about Airbnb listings in Austin, Texas. The data was obtained through Airbnb at http://insideairbnb.com/get-the-data/.
 
 Link to published tableau dashboard: https://public.tableau.com/views/AirbnbDashboardAustinTX/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
