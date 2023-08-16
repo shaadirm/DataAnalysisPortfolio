@@ -11,13 +11,13 @@ Files:
 
 This project is an exploratory data analysis of the 2022 Stack Overflow Developer Survey results. The data was made available by Stack Overflow at https://survey.stackoverflow.co/2022/.
 
-The data was processed and analyzed using Python along with the libraries pandas, NumPy, seaborn and Matplotlib.
+The data was processed and analyzed using Python along with the libraries pandas, NumPy, seaborn, and Matplotlib.
 
 Link to GitHub file: https://github.com/shaadirm/DataAnalysisPortfolio/blob/main/ExploratoryDataAnalysis.ipynb
 
 ## SalesAnalysis.ipynb
 
-This project is an analysis of sales for the electronic products sold throuhout one year by a fictional online retailer. The data was created by a obtained from a GitHub user at https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/aa7297ba64466b5543ddc9211b6afa7601efd21e/Task1/Sales_Data.
+This project is an analysis of sales for electronic products sold throughout one year by a fictional online retailer. The data was created by obtained from a GitHub user at https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/aa7297ba64466b5543ddc9211b6afa7601efd21e/Task1/Sales_Data.
 
 This project was also completed using Python with the pandas and Matplotlib libraries.
 
