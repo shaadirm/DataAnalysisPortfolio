@@ -21,7 +21,7 @@ This project is an analysis of sales for electronic products sold throughout one
 
 This project was also completed using Python with the pandas and Matplotlib libraries.
 
-Link to GitHub file: https://github.com/shaadirm/DataAnalysisPortfolio/blob/main/salesAnalysis.ipynb
+Link to GitHub file: https://github.com/shaadirm/DataAnalysisPortfolio/blob/main/SalesAnalysis.ipynb
 
 ## TableauAirbnbDashboard.pdf
 
@@ -29,4 +29,4 @@ This file contains a pdf version of a tableau dashboard I created using data abo
 
 Link to published tableau dashboard: https://public.tableau.com/views/AirbnbDashboardAustinTX/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Link to GitHub file: https://github.com/shaadirm/DataAnalysisPortfolio/blob/main/tableauAirbnbDashboard.pdf
+Link to GitHub file: https://github.com/shaadirm/DataAnalysisPortfolio/blob/main/TableauAirbnbDashboard.pdf
